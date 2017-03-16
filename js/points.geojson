@@ -3,10 +3,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
-"features": [ 
+"features": [   
   
-  
-  {"type":"Feature","properties":{"latitude":40.782691956,"longitude":-73.94817352,"time":1,"id":"route1","name":"StartPoint"},"geometry":{"type":"Point","coordinates":[-73.94817352,40.782691956]}},
+  {"type":"Feature","properties":{"latitude":40.782691956,"longitude":-73.94817352,"time":1,"id":"route1","name":"Start Point"},"geometry":{"type":"Point","coordinates":[-73.94817352,40.782691956]}},
 {"type":"Feature","properties":{"latitude":40.769321442,"longitude":-73.98233032,"time":2,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98233032,40.769321442]}},
 {"type":"Feature","properties":{"latitude":40.741790771,"longitude":-73.98988342,"time":3,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98988342,40.741790771]}},
 {"type":"Feature","properties":{"latitude":40.783153534,"longitude":-73.95697784,"time":4,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.95697784,40.783153534]}},
@@ -41,9 +40,7 @@
 {"type":"Feature","properties":{"latitude":40.775146484,"longitude":-73.96331787,"time":33,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.96331787,40.775146484]}},
 {"type":"Feature","properties":{"latitude":40.76253891,"longitude":-73.96812439,"time":34,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.96812439,40.76253891]}},
 {"type":"Feature","properties":{"latitude":40.778167725,"longitude":-73.98051453,"time":35,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98051453,40.778167725]}},
-{"type":"Feature","properties":{"latitude":40.774765015,"longitude":-73.96329498,"time":36,"id":"route1","name":"EndPoint"},"geometry":{"type":"Point","coordinates":[-73.96329498,40.774765015]}}
-
-  
+{"type":"Feature","properties":{"latitude":40.774765015,"longitude":-73.96329498,"time":36,"id":"route1","name":"End Point"},"geometry":{"type":"Point","coordinates":[-73.96329498,40.774765015]}}
 
 ]
 }
