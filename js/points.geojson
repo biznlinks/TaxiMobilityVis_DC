@@ -25,22 +25,6 @@
 {"type":"Feature","properties":{"latitude":40.766819000,"longitude":-73.96548462,"time":18,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.96548462,40.766819000]}},
 {"type":"Feature","properties":{"latitude":40.781238556,"longitude":-73.94631195,"time":19,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.94631195,40.781238556]}},
 {"type":"Feature","properties":{"latitude":40.760921478,"longitude":-73.98464966,"time":20,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98464966,40.760921478]}},
-{"type":"Feature","properties":{"latitude":40.777462006,"longitude":-73.95499420,"time":21,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.95499420,40.777462006]}},
-{"type":"Feature","properties":{"latitude":40.792514801,"longitude":-73.97509003,"time":22,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.97509003,40.792514801]}},
-{"type":"Feature","properties":{"latitude":40.794425964,"longitude":-73.97142792,"time":23,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.97142792,40.794425964]}},
-{"type":"Feature","properties":{"latitude":40.787456512,"longitude":-73.95481110,"time":24,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.95481110,40.787456512]}},
-{"type":"Feature","properties":{"latitude":40.759803772,"longitude":-73.98081970,"time":25,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98081970,40.759803772]}},
-{"type":"Feature","properties":{"latitude":40.770359039,"longitude":-73.96631622,"time":26,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.96631622,40.770359039]}},
-{"type":"Feature","properties":{"latitude":40.761669159,"longitude":-73.98646545,"time":27,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98646545,40.761669159]}},
-{"type":"Feature","properties":{"latitude":40.727550507,"longitude":-74.00389099,"time":28,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-74.00389099,40.727550507]}},
-{"type":"Feature","properties":{"latitude":40.735458374,"longitude":-73.99814606,"time":29,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.99814606,40.735458374]}},
-{"type":"Feature","properties":{"latitude":40.744327545,"longitude":-73.99594879,"time":30,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.99594879,40.744327545]}},
-{"type":"Feature","properties":{"latitude":40.744609833,"longitude":-73.99668121,"time":31,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.99668121,40.744609833]}},
-{"type":"Feature","properties":{"latitude":40.777565002,"longitude":-73.97898865,"time":32,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.97898865,40.777565002]}},
-{"type":"Feature","properties":{"latitude":40.775146484,"longitude":-73.96331787,"time":33,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.96331787,40.775146484]}},
-{"type":"Feature","properties":{"latitude":40.762538910,"longitude":-73.96812439,"time":34,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.96812439,40.762538910]}},
-{"type":"Feature","properties":{"latitude":40.778167725,"longitude":-73.98051453,"time":35,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98051453,40.778167725]}},
-{ "type": "Feature", "properties": { "latitude": 40.774765015,"longitude": -73.96329498,"time": 36, "id": "route1", "name":"End Point"     }, "geometry": { "type": "Point", "coordinates": [-73.96329498,40.774765015]}},
 { "type": "Feature", "properties": { "latitude": 40.727250, "longitude": -73.984550, "time": 37, "id": "route1", "name":"End Point"   }, "geometry": { "type": "Point", "coordinates": [ -73.98455, 40.72725 ] } }
 ]
 }
