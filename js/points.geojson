@@ -4,11 +4,8 @@
                                                                                 
 "features": [
 
-
-
-
 { "type": "Feature", "properties": { "latitude": 40.782692, "longitude": -73.948174, "time": 1, "id": "route1", "name":"Start Point" }, "geometry": { "type": "Point", "coordinates": [ -73.982330, 40.769321 ] } },
-{ "type": "Feature", "properties": { "latitude": 40.741791, "longitude": -73.989883, "time": 2, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.956978, 40.783154 ] } },
+{ "type": "Feature", "properties": { "latitude": 40.741791, "longitude": -73.989883, "time": 2, "id": "route1", "name":"PU 1"  }, "geometry": { "type": "Point", "coordinates": [ -73.956978, 40.783154 ] } },
 { "type": "Feature", "properties": { "latitude": 40.768433, "longitude": -73.981720, "time": 3, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.989296, 40.742111 ] } },
 { "type": "Feature", "properties": { "latitude": 40.784058, "longitude": -73.956306, "time": 4, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.949074, 40.785282 ] } },
 { "type": "Feature", "properties": { "latitude": 40.778694, "longitude": -73.954025, "time": 5, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.952072, 40.774609 ] } },
@@ -25,8 +22,6 @@
 { "type": "Feature", "properties": { "latitude": 40.744610, "longitude": -73.996681, "time": 16, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.978989, 40.777565 ] } },
 { "type": "Feature", "properties": { "latitude": 40.775146, "longitude": -73.963318, "time": 17, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.968124, 40.762539 ] } },
 { "type": "Feature", "properties": { "latitude": 40.778168, "longitude": -73.980515, "time": 18, "id": "route1", "name":"End Point"   }, "geometry": { "type": "Point", "coordinates": [ -73.963295, 40.774765 ] } }
-
-
 
 
 ]
