@@ -4,7 +4,7 @@
                                                                                 
 "features": [
 
-{"type":"Feature","properties":{"latitude":40.782691956,"longitude":-73.94817352,"time":1,"id":"route1","name":"Start Point"},"geometry":{"type":"Point","coordinates":[-73.94817352,40.782691956]}},
+{"type":"Feature","properties":{"latitude":40.782691956,"longitude":-73.94817352,"time":1,"id":"route1","name":"Starting Point"},"geometry":{"type":"Point","coordinates":[-73.94817352,40.782691956]}},
 {"type":"Feature","properties":{"latitude":40.769321442,"longitude":-73.98233032,"time":2,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98233032,40.769321442]}},
 {"type":"Feature","properties":{"latitude":40.741790771,"longitude":-73.98988342,"time":3,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.98988342,40.741790771]}},
 {"type":"Feature","properties":{"latitude":40.783153534,"longitude":-73.95697784,"time":4,"id":"route1","name":"Alongroute"},"geometry":{"type":"Point","coordinates":[-73.95697784,40.783153534]}},
