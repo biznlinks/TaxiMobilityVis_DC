@@ -39,10 +39,6 @@
 {"type":"Feature","properties":{"latitude":40.775146484,"longitude":-73.96331787,"time":33,"id":"route1","name":"Alongroutec"},"geometry":{"type":"Point","coordinates":[-73.96331787,40.775146484]}},
 {"type":"Feature","properties":{"latitude":40.762538910,"longitude":-73.96812439,"time":34,"id":"route1","name":"Alongrouteb"},"geometry":{"type":"Point","coordinates":[-73.96812439,40.762538910]}},
 {"type":"Feature","properties":{"latitude":40.778167725,"longitude":-73.98051453,"time":35,"id":"route1","name":"Alongroutea"},"geometry":{"type":"Point","coordinates":[-73.98051453,40.778167725]}},
-
- 
- 
-
 { "type": "Feature", "properties": { "latitude": 40.722390, "longitude": -73.995170, "time": 1, "id": "route1", "name":"Gimme" }, "geometry": { "type": "Point", "coordinates": [ -73.99517, 40.72239 ] } },
 { "type": "Feature", "properties": { "latitude": 40.721580, "longitude": -73.995480, "time": 2, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.99548, 40.72158 ] } },
 { "type": "Feature", "properties": { "latitude": 40.721280, "longitude": -73.994720, "time": 3, "id": "route1", "name":"Along route"   }, "geometry": { "type": "Point", "coordinates": [ -73.99472, 40.72128 ] } },
@@ -72,38 +68,3 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-]
-}
