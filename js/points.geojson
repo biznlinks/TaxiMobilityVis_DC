@@ -4,7 +4,7 @@
                                                                                 
 "features": [
 
-{ "type": "Feature", "properties": { "latitude": 40.782692, "longitude": -73.948174, "time": 1, "id": "route1", "name":"Start Point1" }, "geometry": { "type": "Point", "coordinates": [ -73.982330, 40.769321 ] } },
+{ "type": "Feature", "properties": { "latitude": 40.782692, "longitude": -73.948174, "time": 1, "id": "route1", "name":"Start Point1000" }, "geometry": { "type": "Point", "coordinates": [ -73.982330, 40.769321 ] } },
 { "type": "Feature", "properties": { "latitude": 40.741791, "longitude": -73.989883, "time": 2, "id": "route1", "name":"PU 1"  }, "geometry": { "type": "Point", "coordinates": [ -73.956978, 40.783154 ] } },
 { "type": "Feature", "properties": { "latitude": 40.768433, "longitude": -73.981720, "time": 3, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.989296, 40.742111 ] } },
 { "type": "Feature", "properties": { "latitude": 40.784058, "longitude": -73.956306, "time": 4, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.949074, 40.785282 ] } },
