@@ -1,4 +1,4 @@
-# mobilityVis
+# Taxi Mobility Vis
 The purpose of this project is to come up with a visualization platform for a travel demand modeling
 
 * [Test site](https://dcorreab.github.io/TaxiMobilityVis_DC/) 
