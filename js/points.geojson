@@ -6,9 +6,9 @@
 
 { "type": "Feature", "properties": { "latitude": 40.782692, "longitude": -73.948174, "time": 1, "id": "route1", "name":"Start Point" }, "geometry": { "type": "Point", "coordinates": [ -73.982330, 40.769321 ] } },
 { "type": "Feature", "properties": { "latitude": 40.741791, "longitude": -73.989883, "time": 2, "id": "route1", "name":"PU 1"  }, "geometry": { "type": "Point", "coordinates": [ -73.956978, 40.783154 ] } },
-{ "type": "Feature", "properties": { "latitude": 40.768433, "longitude": -73.981720, "time": 3, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.989296, 40.742111 ] } },
-{ "type": "Feature", "properties": { "latitude": 40.784058, "longitude": -73.956306, "time": 4, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.949074, 40.785282 ] } },
-{ "type": "Feature", "properties": { "latitude": 40.778694, "longitude": -73.954025, "time": 5, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.952072, 40.774609 ] } },
+{ "type": "Feature", "properties": { "latitude": 40.768433, "longitude": -73.981720, "time": 2, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.989296, 40.742111 ] } },
+{ "type": "Feature", "properties": { "latitude": 40.784058, "longitude": -73.956306, "time": 2, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.949074, 40.785282 ] } },
+{ "type": "Feature", "properties": { "latitude": 40.778694, "longitude": -73.954025, "time": 2, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.952072, 40.774609 ] } },
 { "type": "Feature", "properties": { "latitude": 40.783272, "longitude": -73.974472, "time": 6, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.981400, 40.760548 ] } },
 { "type": "Feature", "properties": { "latitude": 40.777039, "longitude": -73.952522, "time": 7, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.978790, 40.789299 ] } },
 { "type": "Feature", "properties": { "latitude": 40.786961, "longitude": -73.953239, "time": 8, "id": "route1", "name":"Along route"  }, "geometry": { "type": "Point", "coordinates": [ -73.956848, 40.776611 ] } },
